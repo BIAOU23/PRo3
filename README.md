@@ -114,6 +114,3 @@ Ce dépôt peut être utilisé comme support pédagogique pour :
 - La mise en place d’un environnement de test en sécurité informatique.
 - L’étude des différences entre fichiers packés et non packés.
 
-Pour cloner ce dépôt :
-```bash
-git clone https://github.com/votre-utilisateur/projet-analyse-statique.git
